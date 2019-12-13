@@ -98,3 +98,4 @@ play-store-api is Free Software: You can use, study share and improve it at your
 
 play-store-api is a fork of https://github.com/Akdeniz/google-play-crawler
 play-store-api has [protobuf-java](https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java) built-in. protobuf-java was modified to work with java 1.5 which is required for play-store-api to work on old android versions.
+[![Run on Repl.it](https://repl.it/badge/github/markrosenbaum/play-store-api)](https://repl.it/github/markrosenbaum/play-store-api)
